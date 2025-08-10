@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|e:\\pos project\\pos final v2\\pos final v2\\pos final\\storeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:storeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|e:\\pos project\\pos final v2\\pos final v2\\pos final\\employeepanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:employeepanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|e:\\pos project\\pos final v2\\pos final v2\\pos final\\employeepanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:employeepanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|e:\\pos project\\pos final v2\\pos final v2\\pos final\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\itemmanagmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:itemmanagmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\itemmanagmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:itemmanagmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\loyaltycustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:loyaltycustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\roundtxtbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:roundtxtbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\roundtxtbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:roundtxtbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128050CB-6392-4A3F-9B35-EC9417F76ED8}|Point Of Sale.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:13:10.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPanelForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "AdminPanelForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\AdminPanelForm.cs [Design]",
+              "RelativeToolTip": "AdminPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:36:19.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeePanelForm.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\EmployeePanelForm.cs",
+              "RelativeDocumentMoniker": "EmployeePanelForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\EmployeePanelForm.cs",
+              "RelativeToolTip": "EmployeePanelForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:39:44.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:51:34.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeePanelForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\EmployeePanelForm.cs",
+              "RelativeDocumentMoniker": "EmployeePanelForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\EmployeePanelForm.cs [Design]",
+              "RelativeToolTip": "EmployeePanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:39:13.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreForm.Designer.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\StoreForm.Designer.cs",
+              "RelativeDocumentMoniker": "StoreForm.Designer.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\StoreForm.Designer.cs",
+              "RelativeToolTip": "StoreForm.Designer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAYwNAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:43:15.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoreForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\StoreForm.cs",
+              "RelativeDocumentMoniker": "StoreForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\StoreForm.cs [Design]",
+              "RelativeToolTip": "StoreForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:08:22.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:13:02.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemManagmentForm.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\ItemManagmentForm.cs",
+              "RelativeDocumentMoniker": "ItemManagmentForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\ItemManagmentForm.cs",
+              "RelativeToolTip": "ItemManagmentForm.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAqwF8BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:07:23.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreForm.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\StoreForm.cs",
+              "RelativeDocumentMoniker": "StoreForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\StoreForm.cs",
+              "RelativeToolTip": "StoreForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwMsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:08:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemManagmentForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\ItemManagmentForm.cs",
+              "RelativeDocumentMoniker": "ItemManagmentForm.cs",
+              "ToolTip": "D:\\C# Tests\\New C#\\POS V26\\ItemManagmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:07:22.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoyaltyCustomerForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\LoyaltyCustomerForm.cs",
+              "RelativeDocumentMoniker": "LoyaltyCustomerForm.cs",
+              "ToolTip": "D:\\C# Tests\\New C#\\POS V26\\LoyaltyCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:47:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\EmployeeForm.cs",
+              "RelativeToolTip": "EmployeeForm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwKwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:42:24.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillingForm.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\BillingForm.cs",
+              "RelativeDocumentMoniker": "BillingForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\BillingForm.cs",
+              "RelativeToolTip": "BillingForm.cs",
+              "ViewState": "AgIAAJsCAAAAAAAAAAAAwEQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:04:41.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoundTxtbox.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\RoundTxtbox.cs",
+              "RelativeDocumentMoniker": "RoundTxtbox.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\RoundTxtbox.cs",
+              "RelativeToolTip": "RoundTxtbox.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAADwv+kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:56:27.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoundTxtbox.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\RoundTxtbox.cs",
+              "RelativeDocumentMoniker": "RoundTxtbox.cs",
+              "ToolTip": "D:\\C# Tests\\New C#\\POS V26\\RoundTxtbox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:56:26.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\DashboardForm.cs",
+              "RelativeToolTip": "DashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:41:59.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillingForm.cs [Design]",
+              "DocumentMoniker": "E:\\pos project\\POS Final V2\\POS Final V2\\POS Final\\BillingForm.cs",
+              "RelativeDocumentMoniker": "BillingForm.cs",
+              "ToolTip": "D:\\C# Tests\\New C#\\POS V26\\BillingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:41:39.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

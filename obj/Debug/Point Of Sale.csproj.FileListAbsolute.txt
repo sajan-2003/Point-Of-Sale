@@ -1,0 +1,57 @@
+D:\C# Tests\New C#\POS V26\bin\Debug\PointOfSale.exe.config
+D:\C# Tests\New C#\POS V26\bin\Debug\PointOfSale.exe
+D:\C# Tests\New C#\POS V26\bin\Debug\PointOfSale.pdb
+D:\C# Tests\New C#\POS V26\obj\Debug\Point Of Sale.csproj.AssemblyReference.cache
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.AdminPanelForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.BillingForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.DashboardForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.EmployeeForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.EmployeePanelForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.ItemManagmentForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.LoginForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.LoyaltyCustomerForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.Properties.Resources.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.RoundTxtbox.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.StoreForm.resources
+D:\C# Tests\New C#\POS V26\obj\Debug\Point Of Sale.csproj.GenerateResource.cache
+D:\C# Tests\New C#\POS V26\obj\Debug\Point Of Sale.csproj.CoreCompileInputs.cache
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.exe
+D:\C# Tests\New C#\POS V26\obj\Debug\PointOfSale.pdb
+E:\pos project\POS Final V2\POS Final V2\POS Final\bin\Debug\PointOfSale.exe.config
+E:\pos project\POS Final V2\POS Final V2\POS Final\bin\Debug\PointOfSale.exe
+E:\pos project\POS Final V2\POS Final V2\POS Final\bin\Debug\PointOfSale.pdb
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\Point Of Sale.csproj.AssemblyReference.cache
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.AdminPanelForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.BillingForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.DashboardForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.EmployeeForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.EmployeePanelForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.ItemManagmentForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.LoginForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.LoyaltyCustomerForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.Properties.Resources.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.RoundTxtbox.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.StoreForm.resources
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\Point Of Sale.csproj.GenerateResource.cache
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\Point Of Sale.csproj.CoreCompileInputs.cache
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.exe
+E:\pos project\POS Final V2\POS Final V2\POS Final\obj\Debug\PointOfSale.pdb
+E:\DIIT\pos project\Final V\bin\Debug\PointOfSale.exe.config
+E:\DIIT\pos project\Final V\bin\Debug\PointOfSale.exe
+E:\DIIT\pos project\Final V\bin\Debug\PointOfSale.pdb
+E:\DIIT\pos project\Final V\obj\Debug\Point Of Sale.csproj.AssemblyReference.cache
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.AdminPanelForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.BillingForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.DashboardForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.EmployeeForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.EmployeePanelForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.ItemManagmentForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.LoginForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.LoyaltyCustomerForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.Properties.Resources.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.RoundTxtbox.resources
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.StoreForm.resources
+E:\DIIT\pos project\Final V\obj\Debug\Point Of Sale.csproj.GenerateResource.cache
+E:\DIIT\pos project\Final V\obj\Debug\Point Of Sale.csproj.CoreCompileInputs.cache
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.exe
+E:\DIIT\pos project\Final V\obj\Debug\PointOfSale.pdb
